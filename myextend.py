@@ -71,4 +71,7 @@ class MyExtend:
             time.sleep(15)
     def close(self):
         global foo
+
         foo = False
+
+#原json解析出错
