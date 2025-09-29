@@ -1,0 +1,2 @@
+# scrapy_doban_newbook
+采用scrapy爬取doban的新书传递
